@@ -68,7 +68,7 @@ const Login = () => {
                     backgroundColor="green-500"
                     textColor="white"
                     text="Войти"
-                    className="w-full py-2 px-4 rounded-lg shadow-md hover:bg-green-600 transition"/>
+                    className="w-full py-2 px-4 rounded-lg shadow-md hover:bg-green-800 transition"/>
                 <p className="mt-4 text-center text-gray-600 text-sm">
                     Еще нет учетной записи?{' '}
                     <a href="/register" className="text-green-500 hover:underline">Зарегистрироваться</a>
